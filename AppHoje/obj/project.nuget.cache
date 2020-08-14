@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TECEYlvv4Wh0jZ/peLmhPUsgL6OM8ZneovkCoMCFfhVazrplAmgyzaTgYi/Ge6lQMGdRDbmE0/WdrCOixaM+Bg==",
+  "dgSpecHash": "uln4d3E6GTe9IaioPEJt0sK2sL9XZO9mfd04ZfK7/QBpoUI4vIvJ31DlB1YF2xXWO3tymgB0IdX/rcJ3MTXS6Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ayrton.antonio\\source\\repos\\AppHoje\\AppHoje\\AppHoje.csproj",
+  "projectFilePath": "C:\\Users\\ayrton.antonio\\Source\\Repos\\AppHoje.v1\\AppHoje\\AppHoje.csproj",
   "expectedPackageFiles": [
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.runtime\\1.1.1.3\\xamarin.android.arch.core.runtime.1.1.1.3.nupkg.sha512",

@@ -1581,11 +1581,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ayrton.antonio\\source\\repos\\AppHoje\\AppHoje\\AppHoje.csproj",
+      "projectUniqueName": "C:\\Users\\ayrton.antonio\\Source\\Repos\\AppHoje.v1\\AppHoje\\AppHoje.csproj",
       "projectName": "AppHoje",
-      "projectPath": "C:\\Users\\ayrton.antonio\\source\\repos\\AppHoje\\AppHoje\\AppHoje.csproj",
+      "projectPath": "C:\\Users\\ayrton.antonio\\Source\\Repos\\AppHoje.v1\\AppHoje\\AppHoje.csproj",
       "packagesPath": "C:\\Users\\ayrton.antonio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ayrton.antonio\\source\\repos\\AppHoje\\AppHoje\\obj\\",
+      "outputPath": "C:\\Users\\ayrton.antonio\\Source\\Repos\\AppHoje.v1\\AppHoje\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
