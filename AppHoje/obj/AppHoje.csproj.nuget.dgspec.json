@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ayrton.antonio\\Source\\Repos\\AppHoje.v1\\AppHoje\\AppHoje.csproj": {}
+    "C:\\Users\\ayrton.antonio\\source\\repos\\AppHoje.v1\\AppHoje\\AppHoje.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ayrton.antonio\\Source\\Repos\\AppHoje.v1\\AppHoje\\AppHoje.csproj": {
+    "C:\\Users\\ayrton.antonio\\source\\repos\\AppHoje.v1\\AppHoje\\AppHoje.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ayrton.antonio\\Source\\Repos\\AppHoje.v1\\AppHoje\\AppHoje.csproj",
+        "projectUniqueName": "C:\\Users\\ayrton.antonio\\source\\repos\\AppHoje.v1\\AppHoje\\AppHoje.csproj",
         "projectName": "AppHoje",
-        "projectPath": "C:\\Users\\ayrton.antonio\\Source\\Repos\\AppHoje.v1\\AppHoje\\AppHoje.csproj",
+        "projectPath": "C:\\Users\\ayrton.antonio\\source\\repos\\AppHoje.v1\\AppHoje\\AppHoje.csproj",
         "packagesPath": "C:\\Users\\ayrton.antonio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ayrton.antonio\\Source\\Repos\\AppHoje.v1\\AppHoje\\obj\\",
+        "outputPath": "C:\\Users\\ayrton.antonio\\source\\repos\\AppHoje.v1\\AppHoje\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
