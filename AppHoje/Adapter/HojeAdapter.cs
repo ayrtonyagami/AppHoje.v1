@@ -40,7 +40,10 @@ namespace AppHoje.Adapter
 
             // Replace the contents of the view with that element
             var holder = viewHolder as HojeAdapterViewHolder;
-            //holder.TextView.Text = items[position];
+            holder.txtNome.Text = items[position].Nome;
+            holder.txtDepartamento.Text = items[position].Descricao;
+            holder.txtStatus.Text = items[position].Status;
+            holder.txtTexto.Text = items[position].Set;
         }
 
         public override int ItemCount => items.Count;
