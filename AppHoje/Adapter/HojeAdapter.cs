@@ -36,9 +36,7 @@ namespace AppHoje.Adapter
         // Replace the contents of a view (invoked by the layout manager)
         public override void OnBindViewHolder(RecyclerView.ViewHolder viewHolder, int position)
         {
-            var item = items[position];
 
-            // Replace the contents of the view with that element
             var holder = viewHolder as HojeAdapterViewHolder;
             holder.txtNome.Text = items[position].Nome;
             holder.txtDepartamento.Text = items[position].Descricao;
